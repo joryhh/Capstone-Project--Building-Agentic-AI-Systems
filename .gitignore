@@ -1,0 +1,34 @@
+# Secrets — never commit API keys
+.env
+.env.*
+*.key
+secrets.json
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+env/
+.Python
+build/
+dist/
+
+# Notebooks
+.ipynb_checkpoints/
+
+# Model and vector caches
+.cache/
+sentence_transformers/
+~/.cache/huggingface/
+
+# Generated output
+outputs/
+*.log
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
