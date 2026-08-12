@@ -1,0 +1,19 @@
+BrightPath Course Registration System — Requirements Document
+
+REQ-001: The system shall allow a student to log in using their university ID and password.
+
+REQ-002: The system shall allow a student to browse a list of available courses, showing course name, instructor, and remaining seats.
+
+REQ-003: The system shall allow a student to register for a course if seats are available.
+
+REQ-004: The system shall respond to course search queries quickly.
+
+REQ-005: The system shall never allow a student to drop a course after the add/drop deadline has passed.
+
+REQ-006: The system shall always allow a student to drop a course within 24 hours of registering, even if the add/drop deadline has already passed.
+
+REQ-007: The system shall be reliable and provide a good user experience at all times.
+
+REQ-008: The system shall allow an academic advisor to view a student's registration history.
+
+REQ-009: The system shall allow an academic advisor to override a registration hold on a student's account.

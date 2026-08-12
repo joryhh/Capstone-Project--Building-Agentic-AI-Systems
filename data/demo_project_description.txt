@@ -1,0 +1,10 @@
+BrightPath Course Registration System — Project Description
+
+BrightPath is a web-based course registration system for university students.
+The platform allows students to browse available courses, register for courses,
+and drop courses they are no longer able to attend. Because popular courses
+often fill up quickly, students should be notified automatically when a seat
+becomes available in a course they are waitlisted for. Academic advisors need
+to be able to review a student's registration history and override registration
+holds when necessary. The system must also generate a weekly enrollment report
+for department administrators showing current seat counts per course.
